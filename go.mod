@@ -10,3 +10,9 @@ require (
 	github.com/sam-kamerer/go-plister v1.2.0
 	github.com/stretchr/testify v1.4.0
 )
+
+replace github.com/asticode/go-astilectron => ../go-astilectron
+
+replace github.com/asticode/go-astikit => ../go-astikit
+
+replace github.com/asticode/go-bindata => ../go-bindata
